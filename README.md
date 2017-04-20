@@ -3,20 +3,20 @@ Somewhat comprehensive list of cartography / map / web design resources
 
 Over the years, I have been collecting a list of my go-to resources for cartography and web design. I've never found a comprehensive list of where to go for anything from selecting colors to finding data, so I figured I should just make mine public to help you out (though it is by no means comprehensive). Please [contact me](http://tolomaps.com/about/) or PR if you have any suggestions of resources to add to this list.
 
-- [General mapping / cartography](#General mapping / cartography)
-- [Web mapping](#Web mapping)
-- [Colors](#Colors)
-- [Typography / Fonts](#Typography / Fonts)
-- [Software](#Software)
-- [Data](#Data)
-- [Icons](#Icons)
-- [Textures / Patterns](#Textures / Patterns)
-- [Geocoding](#Geocoding)
-- [Projections](#Projections)
-- [Tutorials / Guides / Forums](#Tutorials / Guides / Forums)
-- [Blogs](#Blogs)
-- [Conversion tools](#Conversion tools)
-- [Miscellaneous](#Miscellaneous)
+- [General mapping stuff](#general-mapping-stuff)
+- [Web mapping](#web-mapping)
+- [Colors](#colors)
+- [Typography / Fonts](#typography)
+- [Software](#software)
+- [Data](#data)
+- [Icons](#icons)
+- [Textures / Patterns](#textures--patterns)
+- [Geocoding](#geocoding)
+- [Projections](#projections)
+- [Tutorials / Guides / Forums](#tutorials--guides--forums)
+- [Blogs](#blogs)
+- [Conversion tools](#conversion-tools)
+- [Miscellaneous](#miscellaneous)
 
 ## General mapping stuff
 
@@ -65,7 +65,7 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 - [Flipping Typical](http://flippingtypical.com/ Flipping Typical): Allows you to see and test out all of the fonts installed on your computer by typing in a specific phrase and showing you what it looks like in the various fonts
 - [Top 30 free open-source web fonts](https://www.typewolf.com/open-source-web-fonts): Great collection of free fonts for download/web use
 
-## Software & Mapping tools
+## Software
 
 - [QGIS](http://www.qgis.org/en/site/ QGIS): Open-source desktop GIS software. Can do most of what ArcMap can do, for free. Often it does it much, much faster.
 - [Mapbox](https://www.mapbox.com/ Mapbox): Use Mapbox online to design basemaps; Mapbox Studio is desktop software for designing map tiles that can be uploaded and hosted on Mapbox. Check out their <a title="Mapbox Getting Started Guides" href="https://www.mapbox.com/guides/" target="_blank">Getting Started Guides</a> or <a title="Mapbox Help" href="https://www.mapbox.com/help/" target="_blank">Help</a> section for more information.
@@ -145,7 +145,7 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 - [Projection distortions](http://www.gis.osu.edu/misc/map-projections/): Awesome animated map that shows how different projections distort differently
 - [Dirty Reprojectors](http://devseed.com/dirty-reprojectors-app/): Download geojson for common features in different projections, or upload your own WGS84 geojson and reproject it.
 
-## Tutorials / How-to / Forums
+## Tutorials / Guides / Forums
 
 - [Intro to the Geo Command Line](https://developmentseed.org/blog/2015/08/28/geo-command-line-introduction/): A blog post by yours truly to introduce GIS/mapping people to the wonderful world of the command line.
 - [Making web maps with JavaScript](https://github.com/mjfoster83/web-map-workshop LeafletJS Tutorial): A series of web mapping tutorials by Mike Foster.
