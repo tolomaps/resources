@@ -21,14 +21,14 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 ## General mapping stuff
 
 - [Thematic Cartography Guide](http://axismaps.github.io/thematic-cartography/"): Axis Maps' amazing thematic cartography guide
-- [OpenStreetMap](http://www.openstreetmap.org/ OpenStreetMap): Editable, open map of the world.
+- [OpenStreetMap](http://www.openstreetmap.org/ "OpenStreetMap"): Editable, open map of the world.
 - [mapschool.io](http://mapschool.io/): Brief introduction to all things geo.
-- [20 Unrequested Map Tips](http://uxblog.idvsolutions.com/2013/10/20-unrequested-map-tips-part-1.html John Nelson's 20 Unrequested Map Tips part 1): John Nelson's 20 map-making tips
+- [20 Unrequested Map Tips](http://uxblog.idvsolutions.com/2013/10/20-unrequested-map-tips-part-1.html "John Nelson's 20 Unrequested Map Tips part 1"): John Nelson's 20 map-making tips
 
 ## Web mapping
 
-- [CartoDB](http://cartodb.com/ CartoDB): Create web maps easily. Especially useful for large datasets.
-- [D3.js](http://d3js.org/ D3"): A JavaScript library to create powerful online visualizations. Often used for web mapping.
+- [CartoDB](http://cartodb.com/ "CartoDB): Create web maps easily. Especially useful for large datasets.
+- [D3.js](http://d3js.org/ "D3"): A JavaScript library to create powerful online visualizations. Often used for web mapping.
   - [D3 Tips & Tricks](https://leanpub.com/D3-Tips-and-Tricks%20 D3 Tips and Tricks): Free, downloadable book on D3
   - [D3 Selection](http://northlandia.wordpress.com/2014/11/01/d3-selection-mysteries-solved/ D3 Selection Mysteries Solved): Understanding how D3 selections work
   - [Let's Make a Map!](https://bost.ocks.org/mike/map/): Introduction to making a basic map with D3, by Mike Bostock himself (the creator of D3).
@@ -194,6 +194,6 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 - [The Lost Art of Critical Map Reading](http://www.graphicarto.com/the-lost-art-of-critical-map-reading/ Mike Foster's Lost Art of Critical Map Reading): Mike Foster's explanation of how and why to read maps with a critical eye
 - [http://www.comparea.org/](http://www.comparea.org/): Compares areas of two different geographic regions/countries
 - [Political world maps](http://www.shadedrelief.com/political/): Free, openly licensed world political maps from Tom Patterson, including hand-made shaded relief. You can edit as you wish and use without attribution.
-- [Sketchy D3 map](http://bl.ocks.org/wboykinm/81b9be3f39026a0f3f1f" target="_blank)
+- [Sketchy D3 map](http://bl.ocks.org/wboykinm/81b9be3f39026a0f3f1f)
 - [More resources!](http://duspviz.mit.edu/resources/) From DUSPviz
 - [Data Viz Tools](http://dataviz.tools/): a curated guide to the best tools, resources and technologies for data visualization
