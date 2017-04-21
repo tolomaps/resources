@@ -68,7 +68,7 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 ## Software
 
 - [QGIS](http://www.qgis.org/en/site/ "QGIS"): Open-source desktop GIS software. Can do most of what ArcMap can do, for free. Often it does it much, much faster.
-- [Mapbox](https://www.mapbox.com/ "Mapbox"): Use Mapbox online to design basemaps; Mapbox Studio is desktop software for designing map tiles that can be uploaded and hosted on Mapbox. Check out their <a title="Mapbox Getting Started Guides" href="https://www.mapbox.com/guides/" target="_blank">Getting Started Guides</a> or <a title="Mapbox Help" href="https://www.mapbox.com/help/" target="_blank">Help</a> section for more information.
+- [Mapbox](https://www.mapbox.com/ "Mapbox"): Use Mapbox online to design basemaps; Mapbox Studio is desktop software for designing map tiles that can be uploaded and hosted on Mapbox. Check out their [Getting Started Guides](https://www.mapbox.com/help/#get-started-with-mapbox "Mapbox Getting Started Guides") or [Help](https://www.mapbox.com/help/ "Mapbox Help") section for more information.
 - [Indiemapper](http://indiemapper.com/ "Indiemapper"): Make thematic maps online. Bring in your own or use provided data.
 - [Map Stack by Stamen](http://mapstack.stamen.com/ "Map Stack by Stamen"): Create quick map snapshots of anywhere, with the ability to customize colors and which labels/lines to include.
 - [HUGEpic](http://hugepic.io/ "HUGEpic"): Create a slippy map from an image. This can be used when you want to be able to pan and zoom on a static map.
@@ -85,14 +85,14 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 - [GADM](http://gadm.org/ "Global Administrative Areas): GADM is a spatial database of the location of the world's administrative areas (or administrative boundaries"). Includes countries as well as lower level administrative boundaries.
 - [GIS Data Repositories](https://docs.google.com/spreadsheet/ccc?key=0AuApi46szKw4dDhVM1dZNmpld3dIQWdRS2NnRkZDQWc&amp;hl=en_US#gid=47 "GIS Data Repositories"): Google Doc compilation of free, downloadable datasets that may be useful in humanitarian response (and many other scenarios). Compiled by Karen Payne of the University of Georgia's Information Technologies Outreach services.
 - [Libra](http://libra.developmentseed.org/ "Libra: Development Seed"): A browser for open Landsat 8 imagery.
-- [Natural Earth](http://www.naturalearthdata.com/ "Natural Earth Data"): Public domain datasets available for the world. Includes political and physical features at various scales. You can easily get Natural Earth datasets as GeoJSONs from <a href="http://geojson.xyz" target="_blank">geojson.xyz</a>.
+- [Natural Earth](http://www.naturalearthdata.com/ "Natural Earth Data"): Public domain datasets available for the world. Includes political and physical features at various scales. You can easily get Natural Earth datasets as GeoJSONs from [geojson.xyz](http://geojson.xyz).
 - [OpenStreetMap Data Extracts](http://download.geofabrik.de/ "OpenStreetMap Data Extracts"): Download the latest data from OpenStreetMap, by continent/country.
 - [Overpass Turbo](http://overpass-turbo.eu/ "Overpass Turbo"): Make queries for specific downloads from OpenStreetMap (for example, if you just want a certain type of road in a certain area, but not every type of data in that area).
 - [Viewfinder Panoramas](http://www.viewfinderpanoramas.org/dem3.html "Viewfinder Panoramas DEM"): Best publicly-available DEMs, according to Daniel Huffman
-- [World Bank Data](http://data.worldbank.org/ "World Bank Data"): F<span style="color: #403e3c;">ree and open access to development data</span>
+- [World Bank Data](http://data.worldbank.org/ "World Bank Data"): Free and open access to development data
 - [U.S. Cartographic Boundary Shapefiles](https://www.census.gov/geo/maps-data/data/tiger-cart-boundary.html "Cartographic Boundary Shapefiles"): These are what you should use if you want to show coastline on your map. If you download the regular TIGER shapefiles from the U.S. Census, they'll give you the technical boundaries but will look weird because boundaries for counties/states extend into the ocean.
 - [World Population data](http://www.worldpop.org.uk/data/): 100m resolution raster population for many parts of the world
-- [30 data sources](http://flowingdata.com/2009/10/01/30-resources-to-find-the-data-you-need/ "30 resources to find the data you need"): Data tips from FlowingData. <a title="How to ask for datasets" href="http://flowingdata.com/2015/05/06/how-to-ask-for-datasets/" target="_blank">See also, this</a>.
+- [30 data sources](http://flowingdata.com/2009/10/01/30-resources-to-find-the-data-you-need/ "30 resources to find the data you need"): Data tips from FlowingData. [See also, this](http://flowingdata.com/2015/05/06/how-to-ask-for-datasets/ "How to ask for datasets").
 - [OpenStreetMap administrative boundaries](https://mapzen.com/data/borders): Free administrative boundary downloads from OpenStreetMap data, provided by Mapzen and updated monthly
 - [College Scorecard](https://collegescorecard.ed.gov/data/): U.S. government data on colleges
 - [CAIT Climate Data](http://cait.wri.org/): One of the most trusted sources of climate data, from the World Resources Institute. Includes historical data, visualizations, and data downloads.
@@ -131,7 +131,7 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 - [OpenCage Geocoder](http://geocoder.opencagedata.com/api.html#quickstart)
 - [Geocoding in the browser](http://giscollective.org/geocoding-in-the-browser/ "Geocoding in the browser"): tutorial/tips by Sam Matthews
 - [Geocode with a CSV](http://emanuelfeld.github.io/geocoder/ "Geocoder by Emanuel Feld"): Uses the Google Maps API, ideally with not more than a few hundred rows
-- [csvgeocode](https://github.com/veltman/csvgeocode): Node.js geocoder tool by Noah Veltman that allows you to convert a CSV with addresses to lat/lon coordinates using several built-in geocoders or a custom one. Fulcrum <a href="http://www.fulcrumapp.com/blog/geocoding-data-with-nodejs/" target="_blank">wrote a blog post explaining how to use it</a>.
+- [csvgeocode](https://github.com/veltman/csvgeocode): Node.js geocoder tool by Noah Veltman that allows you to convert a CSV with addresses to lat/lon coordinates using several built-in geocoders or a custom one. Fulcrum [wrote a blog post explaining how to use it](http://www.fulcrumapp.com/blog/geocoding-data-with-nodejs/).
 
 ## Projections
 
@@ -163,7 +163,7 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 - [GIS Stack Exchange](http://gis.stackexchange.com/): Forum for answering GIS questions, including QGIS.
 - [PostGIS + SQL in Mapbox Studio](https://www.mapbox.com/mapbox-studio/postgis-manual/ "PostGIS + SQL in Mapbox Studio")
 - [Intro to Node](https://github.com/maxogden/art-of-node#the-art-of-node "Art of Node"): A guide to Node.js, a JavaScript library that helps you work with different sources
-- [Convert Google directions to GeoJSON](http://zevross.com/blog/2014/09/23/convert-google-directions-to-geojson-points-or-polylines/ "Convert Google directions to GeoJSON point or polyline"): Inspired by the <a title="Taxi Tech Blog" href="http://chriswhong.com/data-visualization/taxitechblog1/" target="_blank">NYC Taxi visualization</a>, describes how to extract Google Maps directions data as a GeoJSON to then use as you please
+- [Convert Google directions to GeoJSON](http://zevross.com/blog/2014/09/23/convert-google-directions-to-geojson-points-or-polylines/ "Convert Google directions to GeoJSON point or polyline"): Inspired by the [NYC Taxi visualization](http://chriswhong.com/data-visualization/taxitechblog1/), describes how to extract Google Maps directions data as a GeoJSON to then use as you please
 - [How to use different projections with Leaflet](http://vis4.net/blog/posts/no-more-mercator-tiles/): Pannable, zoomable map with Leaflet that isn't in web mercator
 - [How to create illuminated contours in QGIS](http://anitagraser.com/2015/05/24/how-to-create-illuminated-contours-tanaka-style/): A tutorial by Anita Graser
 - [Introduction to D3 web mapping](https://github.com/maptimelex/d3-mapping): Rich Donohue's maptime tutorial that walks through how some basic d3 web maps work
