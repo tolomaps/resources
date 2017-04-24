@@ -1,8 +1,8 @@
-# resources
-Somewhat comprehensive list of cartography / map / web design resources
+# Cartography / mapping / web design resources
 
-Over the years, I have been collecting a list of my go-to resources for cartography and web design. I've never found a comprehensive list of where to go for anything from selecting colors to finding data, so I figured I should just make mine public to help you out (though it is by no means comprehensive). Please [contact me](http://tolomaps.com/about/) or PR if you have any suggestions of resources to add to this list.
+Over the years, I have been collecting a list of my go-to resources for cartography and web design, including everything from selecting colors to finding data to helpful tutorials (though this list is by no means comprehensive). Feel free to submit a pull request or email me at tolomaps@gmail.com if you have suggestions of resources to add to this list or notice that something is outdated. 
 
+# Table of Contents
 - [General mapping stuff](#general-mapping-stuff)
 - [Web mapping](#web-mapping)
 - [Colors](#colors)
@@ -17,6 +17,8 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 - [Blogs](#blogs)
 - [Conversion tools](#conversion-tools)
 - [Miscellaneous](#miscellaneous)
+
+---
 
 ## General mapping stuff
 
