@@ -22,7 +22,7 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 
 ## General mapping stuff
 
-- [Thematic Cartography Guide](http://axismaps.github.io/thematic-cartography/"): Axis Maps' amazing thematic cartography guide
+- [Cartography Guide](http://www.axismaps.com/guide/): Axis Maps' amazing thematic cartography guide
 - [OpenStreetMap](http://www.openstreetmap.org/ "OpenStreetMap"): Editable, open map of the world.
 - [mapschool.io](http://mapschool.io/): Brief introduction to all things geo.
 - [20 Unrequested Map Tips](http://uxblog.idvsolutions.com/2013/10/20-unrequested-map-tips-part-1.html "John Nelson's 20 Unrequested Map Tips part 1"): John Nelson's 20 map-making tips
