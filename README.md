@@ -112,6 +112,10 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 - [Gapminder](http://www.gapminder.org/data/): Database of world demographic and economic data.
 - [OpenAQ](https://openaq.org/#/sources): The most comprehensive compilation of datasets I've seen on air quality around the world. Can access data either through download or API.
 - [Top 10 data sources for international development](http://www.theguardian.com/global-development-professionals-network/2016/mar/16/the-top-10-sources-of-data-for-international-development-research): According to The Guardian
+- [10 Free GIS Data Sources: Best Global Raster and Vector Datasets (2017)](http://gisgeography.com/best-free-gis-data-sources-raster-vector/)
+- [Free Spatial Data from DIVA-GIS](http://www.diva-gis.org/Data)
+- [WorldClim Version2](http://worldclim.org/version2)
+- [GADM database of Global Administrative Areas](http://gadm.org/)
 
 ## Textures / Patterns
 
