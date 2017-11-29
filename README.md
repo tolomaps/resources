@@ -122,6 +122,9 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 - [Subtle Patterns](http://subtlepatterns.com/ "Subtle Patterns")
 - [Lost & Taken](http://lostandtaken.com/ "Lost & Taken")
 - [55 seamless, subtle grunge patterns](https://creativemarket.com/liammckay/258119-55-Seamless-Subtle-Grunge-Patterns?u=liammckay&amp;utm_source=Link&amp;utm_medium=CM+Social+Share&amp;utm_campaign=Product+Social+Share&amp;utm_content=55+Seamless+Subtle+Grunge+Patterns+~+Patterns+on+Creative+Market)
+- [Geopattern](http://btmills.github.io/geopattern/)
+- [Pattern Fills](http://iros.github.io/patternfills/)
+- [Hero Patterns (repeatable SVG backgrounds)](http://www.heropatterns.com/)
 
 ## Icons
 
