@@ -22,7 +22,7 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 
 ## General mapping stuff
 
-- [Thematic Cartography Guide](http://axismaps.github.io/thematic-cartography/"): Axis Maps' amazing thematic cartography guide
+- [Cartography Guide](http://www.axismaps.com/guide/): Axis Maps' amazing thematic cartography guide
 - [OpenStreetMap](http://www.openstreetmap.org/ "OpenStreetMap"): Editable, open map of the world.
 - [mapschool.io](http://mapschool.io/): Brief introduction to all things geo.
 - [20 Unrequested Map Tips](http://uxblog.idvsolutions.com/2013/10/20-unrequested-map-tips-part-1.html "John Nelson's 20 Unrequested Map Tips part 1"): John Nelson's 20 map-making tips
@@ -71,7 +71,7 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 
 - [QGIS](http://www.qgis.org/en/site/ "QGIS"): Open-source desktop GIS software. Can do most of what ArcMap can do, for free. Often it does it much, much faster.
 - [Mapbox](https://www.mapbox.com/ "Mapbox"): Use Mapbox online to design basemaps; Mapbox Studio is desktop software for designing map tiles that can be uploaded and hosted on Mapbox. Check out their [Getting Started Guides](https://www.mapbox.com/help/#get-started-with-mapbox "Mapbox Getting Started Guides") or [Help](https://www.mapbox.com/help/ "Mapbox Help") section for more information.
-- [Indiemapper](http://indiemapper.com/ "Indiemapper"): Make thematic maps online. Bring in your own or use provided data.
+- [Indiemapper](http://indiemapper.io// "Indiemapper"): Make thematic maps online. Bring in your own or use provided data.
 - [Map Stack by Stamen](http://mapstack.stamen.com/ "Map Stack by Stamen"): Create quick map snapshots of anywhere, with the ability to customize colors and which labels/lines to include.
 - [HUGEpic](http://hugepic.io/ "HUGEpic"): Create a slippy map from an image. This can be used when you want to be able to pan and zoom on a static map.
 - [Kosmtik](https://github.com/kosmtik/kosmtik): Open-source MBTiles software.
@@ -112,6 +112,10 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 - [Gapminder](http://www.gapminder.org/data/): Database of world demographic and economic data.
 - [OpenAQ](https://openaq.org/#/sources): The most comprehensive compilation of datasets I've seen on air quality around the world. Can access data either through download or API.
 - [Top 10 data sources for international development](http://www.theguardian.com/global-development-professionals-network/2016/mar/16/the-top-10-sources-of-data-for-international-development-research): According to The Guardian
+- [10 Free GIS Data Sources: Best Global Raster and Vector Datasets (2017)](http://gisgeography.com/best-free-gis-data-sources-raster-vector/)
+- [Free Spatial Data from DIVA-GIS](http://www.diva-gis.org/Data)
+- [WorldClim Version2](http://worldclim.org/version2)
+- [GADM database of Global Administrative Areas](http://gadm.org/)
 
 ## Textures / Patterns
 
