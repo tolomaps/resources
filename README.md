@@ -128,6 +128,7 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 
 ## Icons
 
+- [Hero Icons](http://www.heroicons.com/)
 - [Nounproject](http://thenounproject.com/4/): Creative Commons license icons. Can either pay to use them without attribution, or give attribution to the creator.
 - [Maki](http://mapbox.com/maki/): Open-source icons developed by Mapbox for cartographic uses.
 - [Font Awesome](http://fontawesome.io/icons/ "Font Awesome Icons"): Scalable vector icons specifically designed for web use.
