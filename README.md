@@ -71,7 +71,7 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 
 - [QGIS](http://www.qgis.org/en/site/ "QGIS"): Open-source desktop GIS software. Can do most of what ArcMap can do, for free. Often it does it much, much faster.
 - [Mapbox](https://www.mapbox.com/ "Mapbox"): Use Mapbox online to design basemaps; Mapbox Studio is desktop software for designing map tiles that can be uploaded and hosted on Mapbox. Check out their [Getting Started Guides](https://www.mapbox.com/help/#get-started-with-mapbox "Mapbox Getting Started Guides") or [Help](https://www.mapbox.com/help/ "Mapbox Help") section for more information.
-- [Indiemapper](http://indiemapper.com/ "Indiemapper"): Make thematic maps online. Bring in your own or use provided data.
+- [Indiemapper](http://indiemapper.io// "Indiemapper"): Make thematic maps online. Bring in your own or use provided data.
 - [Map Stack by Stamen](http://mapstack.stamen.com/ "Map Stack by Stamen"): Create quick map snapshots of anywhere, with the ability to customize colors and which labels/lines to include.
 - [HUGEpic](http://hugepic.io/ "HUGEpic"): Create a slippy map from an image. This can be used when you want to be able to pan and zoom on a static map.
 - [Kosmtik](https://github.com/kosmtik/kosmtik): Open-source MBTiles software.
