@@ -76,6 +76,7 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 - [HUGEpic](http://hugepic.io/ "HUGEpic"): Create a slippy map from an image. This can be used when you want to be able to pan and zoom on a static map.
 - [Kosmtik](https://github.com/kosmtik/kosmtik): Open-source MBTiles software.
 - [Pyramid Shader](http://www.terraincartography.com/PyramidShader/): An application for visualizing terrain data
+- [OpenMapTiles](https://openmaptiles.org/): Set of open-source tools for self-hosting of OpenStreetMap maps in more than 50 languages. It provides both raster as well as vector tiles, WMS and WMTS services for GIS programs, support for JavaScript viewers and mobile SDK.
 
 ## Data
 
@@ -134,6 +135,7 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 - [Geocoding in the browser](http://giscollective.org/geocoding-in-the-browser/ "Geocoding in the browser"): tutorial/tips by Sam Matthews
 - [Geocode with a CSV](http://emanuelfeld.github.io/geocoder/ "Geocoder by Emanuel Feld"): Uses the Google Maps API, ideally with not more than a few hundred rows
 - [csvgeocode](https://github.com/veltman/csvgeocode): Node.js geocoder tool by Noah Veltman that allows you to convert a CSV with addresses to lat/lon coordinates using several built-in geocoders or a custom one. Fulcrum [wrote a blog post explaining how to use it](http://www.fulcrumapp.com/blog/geocoding-data-with-nodejs/).
+- [OSMNames](https://osmnames.org/): Geocoder, allows download and work offline. Entries rank based on related Wikipedia article popularity.
 
 ## Projections
 
