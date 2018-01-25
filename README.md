@@ -40,6 +40,7 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 - [DropChop](http://dropchop.io/): In-browser application to perform basic GIS operations
 - [awesome-spatial](https://github.com/RoboDonut/awesome-spatial): Links to various (awesome) GitHub repos that have some sort of spatial/geo/web mapping use
 - [Leaflet providers](http://leaflet-extras.github.io/leaflet-providers/preview/): Previews free map tiles that you can use on your Leaflet map, with instructions on how to include it in your code.
+- [StoryMapJS](https://storymap.knightlab.com/#overview): Free tool to help you tell stories on the web that highlight the locations of a series of events.
 
 ### Basemaps and Vector Tiles
 
@@ -91,6 +92,7 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 - [HUGEpic](http://hugepic.io/ "HUGEpic"): Create a slippy map from an image. This can be used when you want to be able to pan and zoom on a static map.
 - [Kosmtik](https://github.com/kosmtik/kosmtik): Open-source MBTiles software.
 - [Pyramid Shader](http://www.terraincartography.com/PyramidShader/): An application for visualizing terrain data
+- [MapChart.net](https://mapchart.net/): Make your own custom map.
 
 ## Data
 
@@ -127,6 +129,10 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 - [Gapminder](http://www.gapminder.org/data/): Database of world demographic and economic data.
 - [OpenAQ](https://openaq.org/#/sources): The most comprehensive compilation of datasets I've seen on air quality around the world. Can access data either through download or API.
 - [Top 10 data sources for international development](http://www.theguardian.com/global-development-professionals-network/2016/mar/16/the-top-10-sources-of-data-for-international-development-research): According to The Guardian
+- [A Plethora of Data Set Repositories](https://www.datasciencecentral.com/profiles/blogs/a-plethora-of-data-set-repositories?utm_content=buffer64d9f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer): 19 'sets of data sets' cover free or public data from various industries.
+- [Lifemapper](http://lifemapper.org/): Uses all of the online geospatial species occurrence data to create distribution maps
+- [Biodiversitymapper](http://biodiversitymapping.org/wordpress/index.php/download/): Data of worldwide biodiversity.
+- [eBird](http://ebird.org/ebird/explore): Bird observation data
 - [10 Free GIS Data Sources: Best Global Raster and Vector Datasets (2017)](http://gisgeography.com/best-free-gis-data-sources-raster-vector/)
 - [Free Spatial Data from DIVA-GIS](http://www.diva-gis.org/Data)
 - [WorldClim Version2](http://worldclim.org/version2)
@@ -152,6 +158,8 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 - [Maki](http://mapbox.com/maki/): Open-source icons developed by Mapbox for cartographic uses.
 - [Font Awesome](http://fontawesome.io/icons/ "Font Awesome Icons"): Scalable vector icons specifically designed for web use.
 - [Ionicons](http://ionicons.com/ "Ionicons"): Icon font.
+- [Flaticon](https://www.flaticon.com/): Free vector icons grouped in packs.
+- [Map Icons](https://mapicons.mapsmarker.com/): Free map icons.
 
 ## Geocoding
 
@@ -231,4 +239,5 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 - [Sketchy D3 map](http://bl.ocks.org/wboykinm/81b9be3f39026a0f3f1f)
 - [More resources!](http://duspviz.mit.edu/resources/) From DUSPviz
 - [Data Viz Tools](http://dataviz.tools/): a curated guide to the best tools, resources and technologies for data visualization
+- [David Rumsey Map Collection](https://www.davidrumsey.com/): Huge collection of high quality historical maps.
 - [Popper](https://popper.js.org/): JS library for managing popups and tooltips within a document
