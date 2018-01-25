@@ -11,6 +11,7 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 - [Data](#data)
 - [Icons](#icons)
 - [Textures / Patterns](#textures--patterns)
+- [Images](#images)
 - [Geocoding](#geocoding)
 - [Projections](#projections)
 - [Tutorials / Guides / Forums](#tutorials--guides--forums)
@@ -40,6 +41,19 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 - [awesome-spatial](https://github.com/RoboDonut/awesome-spatial): Links to various (awesome) GitHub repos that have some sort of spatial/geo/web mapping use
 - [Leaflet providers](http://leaflet-extras.github.io/leaflet-providers/preview/): Previews free map tiles that you can use on your Leaflet map, with instructions on how to include it in your code.
 
+### Basemaps and Vector Tiles
+
+- [Mapbox](https://www.mapbox.com/maps/)
+- [OpenMapTiles](https://openmaptiles.org/)
+- [Thunderforest](https://thunderforest.com/docs/vector-maps-api/)
+
+### Routing
+
+- [GraphHopper](https://www.graphhopper.com/)
+- [Mapbox Directions API](https://www.mapbox.com/navigation/)
+- [Project OSRM](http://project-osrm.org/)
+- [Transitland](https://transit.land)
+
 ## Colors
 
 - [ColorBrewer](http://colorbrewer2.org/ "ColorBrewer"): Cartographer's go-to resource for selecting colors for thematic maps, especially choropleth maps. Can filter based on whether color scheme is optimized for printing, colorblindness, etc.
@@ -55,6 +69,7 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 - [Color Ramp Creator](http://www.pixelfor.me/crc/): Create color schemes of 4, 8, or 16 colors. Fun to play with.
 - [Color Calculator](https://www.sessions.edu/color-calculator/): Choose an initial color, select the type of color scheme you're looking for, and get some ideas.
 - [ColorClaim](http://www.vanschneider.com/colors/): A color picking site by Tobias van Schneider to help with picking color schemes. "All I do is collect my favorite color combinations on one big page. Usually these combinations are very subtle, one main and one accent color.";
+- [siimple colors](https://siimple.juanes.xyz/colors/): an elegant and minimalistic color palette. It provides a set of colors optimized to be used in UI projects.
 
 ## Typography
 
@@ -122,9 +137,17 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 - [Subtle Patterns](http://subtlepatterns.com/ "Subtle Patterns")
 - [Lost & Taken](http://lostandtaken.com/ "Lost & Taken")
 - [55 seamless, subtle grunge patterns](https://creativemarket.com/liammckay/258119-55-Seamless-Subtle-Grunge-Patterns?u=liammckay&amp;utm_source=Link&amp;utm_medium=CM+Social+Share&amp;utm_campaign=Product+Social+Share&amp;utm_content=55+Seamless+Subtle+Grunge+Patterns+~+Patterns+on+Creative+Market)
+- [Geopattern](http://btmills.github.io/geopattern/)
+- [Pattern Fills](http://iros.github.io/patternfills/)
+- [Hero Patterns (repeatable SVG backgrounds)](http://www.heropatterns.com/)
+
+## Images
+
+- [Placeholder](https://placeholder.com/): API for querying images of various sizes with custom text and colors. Good for mockups of layout
 
 ## Icons
 
+- [Hero Icons](http://www.heroicons.com/)
 - [Nounproject](http://thenounproject.com/4/): Creative Commons license icons. Can either pay to use them without attribution, or give attribution to the creator.
 - [Maki](http://mapbox.com/maki/): Open-source icons developed by Mapbox for cartographic uses.
 - [Font Awesome](http://fontawesome.io/icons/ "Font Awesome Icons"): Scalable vector icons specifically designed for web use.
@@ -138,6 +161,11 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 - [Geocoding in the browser](http://giscollective.org/geocoding-in-the-browser/ "Geocoding in the browser"): tutorial/tips by Sam Matthews
 - [Geocode with a CSV](http://emanuelfeld.github.io/geocoder/ "Geocoder by Emanuel Feld"): Uses the Google Maps API, ideally with not more than a few hundred rows
 - [csvgeocode](https://github.com/veltman/csvgeocode): Node.js geocoder tool by Noah Veltman that allows you to convert a CSV with addresses to lat/lon coordinates using several built-in geocoders or a custom one. Fulcrum [wrote a blog post explaining how to use it](http://www.fulcrumapp.com/blog/geocoding-data-with-nodejs/).
+- [Nominatim](http://nominatim.openstreetmap.org/)
+- [OpenCage Data](https://geocoder.opencagedata.com/)
+- [OSMNames](https://osmnames.org/)
+- [Mapbox Search API](Mapbox Search API)
+- [Pelias](https://github.com/pelias/)
 
 ## Projections
 
@@ -203,3 +231,4 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 - [Sketchy D3 map](http://bl.ocks.org/wboykinm/81b9be3f39026a0f3f1f)
 - [More resources!](http://duspviz.mit.edu/resources/) From DUSPviz
 - [Data Viz Tools](http://dataviz.tools/): a curated guide to the best tools, resources and technologies for data visualization
+- [Popper](https://popper.js.org/): JS library for managing popups and tooltips within a document
