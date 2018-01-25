@@ -11,6 +11,7 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 - [Data](#data)
 - [Icons](#icons)
 - [Textures / Patterns](#textures--patterns)
+- [Images](#images)
 - [Geocoding](#geocoding)
 - [Projections](#projections)
 - [Tutorials / Guides / Forums](#tutorials--guides--forums)
@@ -22,7 +23,7 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 
 ## General mapping stuff
 
-- [Thematic Cartography Guide](http://axismaps.github.io/thematic-cartography/"): Axis Maps' amazing thematic cartography guide
+- [Cartography Guide](http://www.axismaps.com/guide/): Axis Maps' amazing thematic cartography guide
 - [OpenStreetMap](http://www.openstreetmap.org/ "OpenStreetMap"): Editable, open map of the world.
 - [mapschool.io](http://mapschool.io/): Brief introduction to all things geo.
 - [20 Unrequested Map Tips](http://uxblog.idvsolutions.com/2013/10/20-unrequested-map-tips-part-1.html "John Nelson's 20 Unrequested Map Tips part 1"): John Nelson's 20 map-making tips
@@ -41,6 +42,19 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 - [Leaflet providers](http://leaflet-extras.github.io/leaflet-providers/preview/): Previews free map tiles that you can use on your Leaflet map, with instructions on how to include it in your code.
 - [StoryMapJS](https://storymap.knightlab.com/#overview): Free tool to help you tell stories on the web that highlight the locations of a series of events.
 
+### Basemaps and Vector Tiles
+
+- [Mapbox](https://www.mapbox.com/maps/)
+- [OpenMapTiles](https://openmaptiles.org/)
+- [Thunderforest](https://thunderforest.com/docs/vector-maps-api/)
+
+### Routing
+
+- [GraphHopper](https://www.graphhopper.com/)
+- [Mapbox Directions API](https://www.mapbox.com/navigation/)
+- [Project OSRM](http://project-osrm.org/)
+- [Transitland](https://transit.land)
+
 ## Colors
 
 - [ColorBrewer](http://colorbrewer2.org/ "ColorBrewer"): Cartographer's go-to resource for selecting colors for thematic maps, especially choropleth maps. Can filter based on whether color scheme is optimized for printing, colorblindness, etc.
@@ -56,6 +70,7 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 - [Color Ramp Creator](http://www.pixelfor.me/crc/): Create color schemes of 4, 8, or 16 colors. Fun to play with.
 - [Color Calculator](https://www.sessions.edu/color-calculator/): Choose an initial color, select the type of color scheme you're looking for, and get some ideas.
 - [ColorClaim](http://www.vanschneider.com/colors/): A color picking site by Tobias van Schneider to help with picking color schemes. "All I do is collect my favorite color combinations on one big page. Usually these combinations are very subtle, one main and one accent color.";
+- [siimple colors](https://siimple.juanes.xyz/colors/): an elegant and minimalistic color palette. It provides a set of colors optimized to be used in UI projects.
 
 ## Typography
 
@@ -72,7 +87,7 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 
 - [QGIS](http://www.qgis.org/en/site/ "QGIS"): Open-source desktop GIS software. Can do most of what ArcMap can do, for free. Often it does it much, much faster.
 - [Mapbox](https://www.mapbox.com/ "Mapbox"): Use Mapbox online to design basemaps; Mapbox Studio is desktop software for designing map tiles that can be uploaded and hosted on Mapbox. Check out their [Getting Started Guides](https://www.mapbox.com/help/#get-started-with-mapbox "Mapbox Getting Started Guides") or [Help](https://www.mapbox.com/help/ "Mapbox Help") section for more information.
-- [Indiemapper](http://indiemapper.com/ "Indiemapper"): Make thematic maps online. Bring in your own or use provided data.
+- [Indiemapper](http://indiemapper.io// "Indiemapper"): Make thematic maps online. Bring in your own or use provided data.
 - [Map Stack by Stamen](http://mapstack.stamen.com/ "Map Stack by Stamen"): Create quick map snapshots of anywhere, with the ability to customize colors and which labels/lines to include.
 - [HUGEpic](http://hugepic.io/ "HUGEpic"): Create a slippy map from an image. This can be used when you want to be able to pan and zoom on a static map.
 - [Kosmtik](https://github.com/kosmtik/kosmtik): Open-source MBTiles software.
@@ -118,15 +133,27 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 - [Lifemapper](http://lifemapper.org/): Uses all of the online geospatial species occurrence data to create distribution maps
 - [Biodiversitymapper](http://biodiversitymapping.org/wordpress/index.php/download/): Data of worldwide biodiversity.
 - [eBird](http://ebird.org/ebird/explore): Bird observation data
+- [10 Free GIS Data Sources: Best Global Raster and Vector Datasets (2017)](http://gisgeography.com/best-free-gis-data-sources-raster-vector/)
+- [Free Spatial Data from DIVA-GIS](http://www.diva-gis.org/Data)
+- [WorldClim Version2](http://worldclim.org/version2)
+- [GADM database of Global Administrative Areas](http://gadm.org/)
 
 ## Textures / Patterns
 
 - [Subtle Patterns](http://subtlepatterns.com/ "Subtle Patterns")
 - [Lost & Taken](http://lostandtaken.com/ "Lost & Taken")
 - [55 seamless, subtle grunge patterns](https://creativemarket.com/liammckay/258119-55-Seamless-Subtle-Grunge-Patterns?u=liammckay&amp;utm_source=Link&amp;utm_medium=CM+Social+Share&amp;utm_campaign=Product+Social+Share&amp;utm_content=55+Seamless+Subtle+Grunge+Patterns+~+Patterns+on+Creative+Market)
+- [Geopattern](http://btmills.github.io/geopattern/)
+- [Pattern Fills](http://iros.github.io/patternfills/)
+- [Hero Patterns (repeatable SVG backgrounds)](http://www.heropatterns.com/)
+
+## Images
+
+- [Placeholder](https://placeholder.com/): API for querying images of various sizes with custom text and colors. Good for mockups of layout
 
 ## Icons
 
+- [Hero Icons](http://www.heroicons.com/)
 - [Nounproject](http://thenounproject.com/4/): Creative Commons license icons. Can either pay to use them without attribution, or give attribution to the creator.
 - [Maki](http://mapbox.com/maki/): Open-source icons developed by Mapbox for cartographic uses.
 - [Font Awesome](http://fontawesome.io/icons/ "Font Awesome Icons"): Scalable vector icons specifically designed for web use.
@@ -142,6 +169,11 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 - [Geocoding in the browser](http://giscollective.org/geocoding-in-the-browser/ "Geocoding in the browser"): tutorial/tips by Sam Matthews
 - [Geocode with a CSV](http://emanuelfeld.github.io/geocoder/ "Geocoder by Emanuel Feld"): Uses the Google Maps API, ideally with not more than a few hundred rows
 - [csvgeocode](https://github.com/veltman/csvgeocode): Node.js geocoder tool by Noah Veltman that allows you to convert a CSV with addresses to lat/lon coordinates using several built-in geocoders or a custom one. Fulcrum [wrote a blog post explaining how to use it](http://www.fulcrumapp.com/blog/geocoding-data-with-nodejs/).
+- [Nominatim](http://nominatim.openstreetmap.org/)
+- [OpenCage Data](https://geocoder.opencagedata.com/)
+- [OSMNames](https://osmnames.org/)
+- [Mapbox Search API](Mapbox Search API)
+- [Pelias](https://github.com/pelias/)
 
 ## Projections
 
@@ -208,3 +240,4 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 - [More resources!](http://duspviz.mit.edu/resources/) From DUSPviz
 - [Data Viz Tools](http://dataviz.tools/): a curated guide to the best tools, resources and technologies for data visualization
 - [David Rumsey Map Collection](https://www.davidrumsey.com/): Huge collection of high quality historical maps.
+- [Popper](https://popper.js.org/): JS library for managing popups and tooltips within a document
