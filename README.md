@@ -168,6 +168,7 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 - [Texas A&M Geoservices](http://geoservices.tamu.edu/Services/Geocode/ "Texas A&M Geoservices")
 - [OpenCage Geocoder](http://geocoder.opencagedata.com/api.html#quickstart)
 - [Geocoding in the browser](http://giscollective.org/geocoding-in-the-browser/ "Geocoding in the browser"): tutorial/tips by Sam Matthews
+- [CSV2GEO](https://csv2geo.com/): Batch Geocoder, Reverse Geocoder, API with Interactive Map, Worldwide coverage
 - [Geocode with a CSV](http://emanuelfeld.github.io/geocoder/ "Geocoder by Emanuel Feld"): Uses the Google Maps API, ideally with not more than a few hundred rows
 - [csvgeocode](https://github.com/veltman/csvgeocode): Node.js geocoder tool by Noah Veltman that allows you to convert a CSV with addresses to lat/lon coordinates using several built-in geocoders or a custom one. Fulcrum [wrote a blog post explaining how to use it](http://www.fulcrumapp.com/blog/geocoding-data-with-nodejs/).
 - [OSMNames](https://osmnames.org/): Geocoder, allows download and work offline. Entries rank based on related Wikipedia article popularity.
