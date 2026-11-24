@@ -212,6 +212,7 @@ Over the years, I have been collecting a list of my go-to resources for cartogra
 - [Introduction to D3 web mapping](https://github.com/maptimelex/d3-mapping): Rich Donohue's maptime tutorial that walks through how some basic d3 web maps work
 - [GDAL Cheat Sheet](https://github.com/dwtkns/gdal-cheat-sheet): Cheat sheet for GDAL/OGR command-line geodata tools by Derek Watkins
 - [How to use non-Web Mercator projections in CartoDB](http://blog.cartodb.com/free-your-maps-web-mercator/)
+- [When records share a map pin](https://gist.github.com/nativ3ai/5c3400384f77ba936e7332c45eba20e3#file-00-field-exercise-md): A worked Police.uk example for counting records at approximate coordinates and writing a map caption.
 
 ## Blogs
 
